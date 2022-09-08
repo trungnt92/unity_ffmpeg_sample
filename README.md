@@ -2,7 +2,7 @@
 
 Sample demo project calling ffmpeg command from within unity. Project use [FfmpegKit]( https://github.com/tanersener/ffmpeg-kit)
 
-##Instalation
+## Instalation
 
 ### Android
 Do not need to do anything, but if you want to update library look for Assets/Plugins/Android and replace file with the version you want.
